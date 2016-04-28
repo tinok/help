@@ -21,6 +21,7 @@ published: true
   * [Configuring ODK Collect with your Ona account](#configure-odk-collect-with-ona)
   * [Downloading forms to your phone](#downloading-forms)
   * [Fill Blank Forms](#fill-blank-forms)
+  * [Review Responses](#review-responses)
   * [Edit Saved Forms](#edit-saved-forms)
   * [Send Finalized Form](#send-finalized-form)
   * [Delete Forms](#delete-forms)
